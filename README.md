@@ -4,18 +4,17 @@
 
 **Simurbs** is a city economics simulation game developed to teach Urban Economics concepts to Economics students. The project combines strategy game elements with an educational platform, allowing users to simulate urban development and explore various economic parameters. 
 
-The project features a dynamic front-end built with **VueJS**, and a robust back-end developed in **Java**, using the **MetroBlocks 3D Engine Library** to handle the rendering of city blocks and buildings. 
+The project features a dynamic front-end built with **VueJS**, and a robust back-end developed in **Java**, using the private **MetroBlocks 3D Engine Library** to handle the rendering of city blocks and buildings. 
 
 Simurbs enables users to interact with a simulated city environment, modify the parameters of city blocks, and compare different simulation versions to study how individuals and economic activities are distributed across an urban setting.
 
-> **Note**: This README serves as a showcase of the **Simurbs** project, which is hosted privately on GitLab. The source code is not publicly available due to the use of the proprietary **MetroBlocks 3D Engine Library**, which handles the rendering of city blocks and buildings. As a result, the project's functionality is demonstrated here through **GIFs** and **descriptions**.
+This README highlights my contributions to **Simurbs**, focusing on the advanced front-end features and the urban economic models developed and integrated into the game.
 
-> This README highlights my contributions to **Simurbs**, focusing on the advanced front-end features and the urban economic models integrated into the game.
+> **Note**: This README serves as a showcase of the **Simurbs** project, which is hosted privately on GitLab. The source code is not publicly available due to the use of the proprietary **MetroBlocks 3D Engine Library**, which handles the rendering of city blocks and buildings. As a result, the project's functionality is demonstrated here through **GIFs** and **descriptions**.
 
 ## Demo
 
 The application includes features such as a dynamic minimap, simulation comparison mode, and pagination for managing a list of simulations. The GIF below demonstrates the main menu of the **Simurbs** app, showcasing interactive recent city simulations and basic statistics:
-
 
 
 
