@@ -20,7 +20,7 @@ The application includes features such as a **Dynamic Minimap**, simulation **Co
 
 The GIF demonstrates the main menu of the **Simurbs** app, showcasing recent city simulations and basic statistics as well as the simulation page.
 
-![simurbs_main_compr](https://github.com/user-attachments/assets/01e1544e-61e0-405f-9898-dc8367351147)
+![simurbs_mm_compressed](https://github.com/user-attachments/assets/4279ec0d-f299-4fc4-a97a-9a3f5ae5ec8e)
 
 ## Features
 
