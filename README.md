@@ -1,8 +1,8 @@
-# Simurbs: City Economics Simulation Game
+# Simurbs: City Economics Simulator
 
 ## Project Overview
 
-**Simurbs** is a city economics simulation game developed to teach Urban Economics concepts to Economics students. The project combines strategy game elements with an educational platform, allowing users to simulate urban development and explore various economic parameters. 
+**Simurbs** is a city economics simulator game developed to teach Urban Economics concepts to Economics students. The project combines strategy game elements with an educational platform, allowing users to simulate urban development and explore various economic parameters. 
 
 The project features a dynamic front-end built with **VueJS**, and a robust back-end developed in **Java**, using the private **MetroBlocks 3D Engine Library** to handle the rendering of city blocks and buildings. 
 
