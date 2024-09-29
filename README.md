@@ -16,9 +16,9 @@ This README highlights my contributions to **Simurbs**, focusing on the advanced
 
 The application includes features such as a **Dynamic Minimap**, simulation **Comparison Mode**, and **Pagination** for managing a list of simulations. 
 
-The GIF below demonstrates the main menu of the **Simurbs** app, showcasing recent city simulations and basic statistics as well as the simulation page:
-
 - **Main Menu and Simulation Page**
+
+The GIF demonstrates the main menu of the **Simurbs** app, showcasing recent city simulations and basic statistics as well as the simulation page.
 
 ![simurbs_main_compr](https://github.com/user-attachments/assets/01e1544e-61e0-405f-9898-dc8367351147)
 
