@@ -34,6 +34,12 @@ The **Simulation Comparison Mode** allows users to compare the current simulatio
 
 ![simurbs_compare_compressed](https://github.com/user-attachments/assets/ea1b46a5-7be6-4f9c-a21d-9a0e79f03078)
 
+- **Simulations Menu, Pagination, and Sorting**
+
+The **Simulations Menu** allows users to manage and browse through multiple simulations efficiently. **Pagination** ensures smooth navigation between large sets of simulation data, while **Sorting** enables users to quickly arrange simulations by key parameters such as population and date added.
+
+![simurbs_pages_compressed](https://github.com/user-attachments/assets/980f1d6f-265e-4732-a4fe-f80cba7c5ac2)
+
 ## Features
 
 - **Dynamic Rotating Minimap**: Users can interact with a live-updating minimap to select specific city blocks and modify their parameters.
