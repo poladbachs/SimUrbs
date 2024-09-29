@@ -1,4 +1,4 @@
-# Simurbs: City Economics Simulator
+# City Economics Simulator
 
 ## Project Overview
 
