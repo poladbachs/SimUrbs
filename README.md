@@ -28,9 +28,9 @@ The **Dynamic Rotating Minimap** allows users to select and modify city blocks i
 
 ![simurbs_minimap_compressed](https://github.com/user-attachments/assets/0ce051ef-3599-4294-96d0-8a3c46bf3eef)
 
-- **Simulation Comparison Mode**
+- **Simulation Comparison Mode and Modal Windows**
 
-The **Simulation Comparison Mode** allows users to compare the current simulation with a selected previous version. Users can easily track changes in key parameters like population, transportation costs, and income, with differences highlighted in green (improvements) or red (declines) over time.
+The **Simulation Comparison Mode** allows users to compare the current simulation with a selected previous version. Users can track changes in parameters like population, transportation costs, and income, with improvements highlighted in green and declines in red. **Modal windows** are used to edit parameters of the simulation and view comparisons without leaving the main interface, ensuring an intuitive user experience.
 
 ![simurbs_compare_compressed](https://github.com/user-attachments/assets/ea1b46a5-7be6-4f9c-a21d-9a0e79f03078)
 
@@ -39,14 +39,6 @@ The **Simulation Comparison Mode** allows users to compare the current simulatio
 The **Simulations Menu** allows users to manage and browse through multiple simulations efficiently. **Pagination** ensures smooth navigation between large sets of simulation data, while **Sorting** enables users to quickly arrange simulations by key parameters such as population and date added.
 
 ![simurbs_pages_compressed](https://github.com/user-attachments/assets/980f1d6f-265e-4732-a4fe-f80cba7c5ac2)
-
-## Features
-
-- **Dynamic Rotating Minimap**: Users can interact with a live-updating minimap to select specific city blocks and modify their parameters.
-- **Simulation Comparison Mode**: Compare the current city simulation with older versions to understand changes in parameters such as population, transportation costs, and income.
-- **Modal Windows for Editing**: Multiple modals allow for seamless editing of simulations, parameter updates, and viewing comparisons.
-- **Pagination for Simulation Management**: Efficiently navigate through a list of past simulations, which can be sorted by parameters such as population, date added, and more.
-- **Sorting and Filtering**: The simulations list can be sorted dynamically by key parameters, allowing users to analyze data efficiently.
 
 ## Technologies Used
 
