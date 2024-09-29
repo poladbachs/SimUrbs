@@ -50,14 +50,13 @@ The **Simulations Menu** allows users to manage and browse through multiple simu
 - **Backend**:
   - **Java** and **Spring Boot** for handling simulations and running urban economic models.
   - **MongoDB** for storing simulation data and historical records.
-  - **Docker** and **Kubernetes** for containerization and deployment.
   
 - **CI/CD**:
   - **GitLab CI/CD** for continuous integration and deployment pipelines.
 
 ## What I Did in This Project
 
-In the **Simurbs** project, I was heavily involved in both the front-end and back-end development, with a particular focus on front-end functionality. Here is what I contributed:
+In the **Simurbs** project, I was the **#1 contributor on the frontend** and the **#2 contributor on the backend**, among a team of 10 colleagues. Here is what I contributed:
 
 ### Frontend Contributions:
 
