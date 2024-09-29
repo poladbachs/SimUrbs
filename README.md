@@ -22,6 +22,12 @@ The GIF demonstrates the main menu of the **Simurbs** app, showcasing recent cit
 
 ![simurbs_mm_compressed](https://github.com/user-attachments/assets/4279ec0d-f299-4fc4-a97a-9a3f5ae5ec8e)
 
+- **Dynamic Minimap**
+
+The **Dynamic Rotating Minimap** allows users to select and modify city blocks in real-time. As users adjust parameters like population or transportation costs, the minimap updates dynamically, reflecting changes instantly.
+
+![simurbs_minimap_compressed](https://github.com/user-attachments/assets/0ce051ef-3599-4294-96d0-8a3c46bf3eef)
+
 ## Features
 
 - **Dynamic Rotating Minimap**: Users can interact with a live-updating minimap to select specific city blocks and modify their parameters.
